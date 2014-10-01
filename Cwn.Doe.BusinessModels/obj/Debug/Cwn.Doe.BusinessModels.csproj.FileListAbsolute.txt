@@ -1,0 +1,4 @@
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.BusinessModels\bin\Debug\Cwn.Doe.BusinessModels.dll
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.BusinessModels\bin\Debug\Cwn.Doe.BusinessModels.pdb
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.BusinessModels\obj\Debug\Cwn.Doe.BusinessModels.dll
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.BusinessModels\obj\Debug\Cwn.Doe.BusinessModels.pdb

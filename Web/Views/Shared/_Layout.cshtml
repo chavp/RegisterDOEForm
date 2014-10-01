@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/extjs/ext-theme-neptune")
+
+    <link rel="stylesheet" type="text/css" 
+        href='@Url.Content("~/Content/bootstrap-3.2.0/css/bootstrap.css")'>
+
+    @Scripts.Render("~/bundles/jquery")
+
+    @Scripts.Render("~/bundles/extjs")
+    @Scripts.Render("~/bundles/extjs/ext-theme-neptune")
+
+</head>
+<body>
+
+    @RenderBody()
+    
+    @RenderSection("scripts", required: false)
+</body>
+</html>

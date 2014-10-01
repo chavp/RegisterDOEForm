@@ -1,0 +1,13 @@
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\bin\Debug\Cwn.Doe.FluentMapping.Nh.dll
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\bin\Debug\Cwn.Doe.FluentMapping.Nh.pdb
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\bin\Debug\Cwn.Doe.BusinessModels.dll
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\bin\Debug\FluentNHibernate.dll
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\bin\Debug\Iesi.Collections.dll
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\bin\Debug\NHibernate.dll
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\bin\Debug\Cwn.Doe.BusinessModels.pdb
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\bin\Debug\FluentNHibernate.xml
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\bin\Debug\Iesi.Collections.xml
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\bin\Debug\NHibernate.xml
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\obj\Debug\Cwn.Doe.FluentMapping.Nh.csprojResolveAssemblyReference.cache
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\obj\Debug\Cwn.Doe.FluentMapping.Nh.dll
+D:\projects\RegisterStepPage\RegisterMockupWeb\Cwn.Doe.FluentMapping.Nh\obj\Debug\Cwn.Doe.FluentMapping.Nh.pdb
